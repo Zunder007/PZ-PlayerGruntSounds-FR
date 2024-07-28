@@ -1,0 +1,4 @@
+UI_FR = {
+	UI_DynamicGruntSounds = "Sons de grognement dynamiques",
+	UI_DynamicGruntSoundsTooltip = "Si cette option est activée, la probabilité que le personnage grogne dépend de l'endurance du personnage.",
+}
